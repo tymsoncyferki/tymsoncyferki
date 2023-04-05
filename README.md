@@ -1,4 +1,4 @@
-### Hi there 👋
+### my name is tymek, yo
 
- - 🔭 I’m currently working on [RideFMB](https://github.com/tymsoncyferki/RideFMB) <br>
- - 🌱 I’m currently learning ML and DL
+ - 🔭 Busy working on [RideFMB](https://github.com/tymsoncyferki/RideFMB) <br>
+ - 🌱 Currently learning ML and DL
