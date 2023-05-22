@@ -5,4 +5,3 @@
 
 #### CV download
  - [English version](https://github.com/tymsoncyferki/tymsoncyferki/raw/main/files/CV_Tymoteusz_Urban.pdf)
- - [Polish version]()
