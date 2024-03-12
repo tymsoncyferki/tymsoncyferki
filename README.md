@@ -1,7 +1,4 @@
-### my name is tymek, yo
+### hello there, general kenobi
 
- - 🌱 Currently learning ML and DL <br>
+ - 🌱 Currently learning about DWH and DL <br>
  - 🔭 Busy working on [RideFMB](https://github.com/tymsoncyferki/RideFMB) <br>
-
-#### CV download
- - [English version](https://github.com/tymsoncyferki/tymsoncyferki/raw/main/files/Tymoteusz_Urban_CV.pdf)
